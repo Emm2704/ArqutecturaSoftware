@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{1E6C8E40-0009-44B3-8884-B3279E8C6708}|MyConsoleApp\\MyConsoleApp.csproj|solutionrelative:myconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC929B38-634A-45B5-878F-241150D0DA25}|MyLibrary\\MyLibrary.csproj|d:\\desarrollos\\.net\\proyectoarquitecturas\\demo01\\mylibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC929B38-634A-45B5-878F-241150D0DA25}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC929B38-634A-45B5-878F-241150D0DA25}|MyLibrary\\MyLibrary.csproj|d:\\desarrollos\\.net\\proyectoarquitecturas\\demo01\\mylibrary\\figglewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC929B38-634A-45B5-878F-241150D0DA25}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\figglewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC929B38-634A-45B5-878F-241150D0DA25}|MyLibrary\\MyLibrary.csproj|d:\\desarrollos\\.net\\proyectoarquitecturas\\demo01\\mylibrary\\messagewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC929B38-634A-45B5-878F-241150D0DA25}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\messagewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\Demo01\\MyLibrary\\Class1.cs",
-              "RelativeDocumentMoniker": "MyLibrary\\Class1.cs",
-              "ToolTip": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\Demo01\\MyLibrary\\Class1.cs",
-              "RelativeToolTip": "MyLibrary\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T21:43:07.172Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -41,9 +32,35 @@
               "RelativeDocumentMoniker": "MyConsoleApp\\Program.cs",
               "ToolTip": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\Demo01\\MyConsoleApp\\Program.cs",
               "RelativeToolTip": "MyConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T21:17:45.023Z",
+              "WhenOpened": "2024-12-07T21:54:32.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FiggleWriter.cs",
+              "DocumentMoniker": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\Demo01\\MyLibrary\\FiggleWriter.cs",
+              "RelativeDocumentMoniker": "MyLibrary\\FiggleWriter.cs",
+              "ToolTip": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\Demo01\\MyLibrary\\FiggleWriter.cs",
+              "RelativeToolTip": "MyLibrary\\FiggleWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T22:25:16.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageWriter.cs",
+              "DocumentMoniker": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\Demo01\\MyLibrary\\MessageWriter.cs",
+              "RelativeDocumentMoniker": "MyLibrary\\MessageWriter.cs",
+              "ToolTip": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\Demo01\\MyLibrary\\MessageWriter.cs",
+              "RelativeToolTip": "MyLibrary\\MessageWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T21:49:55.145Z",
               "EditorCaption": ""
             }
           ]
