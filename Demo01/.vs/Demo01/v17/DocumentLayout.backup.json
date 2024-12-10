@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "MyConsoleApp\\Program.cs",
               "ToolTip": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\Demo01\\MyConsoleApp\\Program.cs",
               "RelativeToolTip": "MyConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T21:54:32.818Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "MyLibrary\\FiggleWriter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T22:25:16.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T22:25:16.355Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "MyLibrary\\MessageWriter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T21:49:55.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T21:49:55.145Z"
             }
           ]
         }
