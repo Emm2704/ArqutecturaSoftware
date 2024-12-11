@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\Demo02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{973FD23E-A183-4AE4-A4BD-431DBDF66985}|MyLibrary\\MyLibrary.csproj|d:\\desarrollos\\.net\\proyectoarquitecturas\\demo02\\mylibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{973FD23E-A183-4AE4-A4BD-431DBDF66985}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{973FD23E-A183-4AE4-A4BD-431DBDF66985}|MyLibrary\\MyLibrary.csproj|d:\\desarrollos\\.net\\proyectoarquitecturas\\demo02\\mylibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973FD23E-A183-4AE4-A4BD-431DBDF66985}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\Demo02\\MyLibrary\\Class1.cs",
-              "RelativeDocumentMoniker": "MyLibrary\\Class1.cs",
-              "ToolTip": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\Demo02\\MyLibrary\\Class1.cs",
-              "RelativeToolTip": "MyLibrary\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\Demo02\\MyLibrary\\Product.cs",
+              "RelativeDocumentMoniker": "MyLibrary\\Product.cs",
+              "ToolTip": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\Demo02\\MyLibrary\\Product.cs",
+              "RelativeToolTip": "MyLibrary\\Product.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T02:19:19.51Z",
+              "WhenOpened": "2024-12-10T02:21:50.005Z",
               "EditorCaption": ""
             }
           ]
