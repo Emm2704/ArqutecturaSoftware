@@ -1,6 +1,6 @@
 ﻿namespace MyLibrary
 {
-    public class Product
+    public class Product (int Id, string name, decimal unitPrice, int unitsInStock)
     {
         //Propiedades
         public int Id { get; }
@@ -10,12 +10,6 @@
 
         //Contructor
 
-        public Product(int Id, string name, decimal unitPrice, int unitsInStock) 
-        {
-            Id = Id;
-            Name = name;
-            UnitPrice = unitPrice;
-            UnitsInStock = unitsInStock;
-        }
+       
     }
 }
