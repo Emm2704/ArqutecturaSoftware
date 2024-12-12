@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\Demo02\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{973FD23E-A183-4AE4-A4BD-431DBDF66985}|MyLibrary\\MyLibrary.csproj|d:\\desarrollos\\.net\\proyectoarquitecturas\\demo02\\mylibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{973FD23E-A183-4AE4-A4BD-431DBDF66985}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0DB582E6-9EED-4A00-9CB4-912BD327FF89}|ConsoleApp\\ConsoleApp.csproj|d:\\desarrollos\\.net\\proyectoarquitecturas\\demo02\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DB582E6-9EED-4A00-9CB4-912BD327FF89}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{973FD23E-A183-4AE4-A4BD-431DBDF66985}|MyLibrary\\MyLibrary.csproj|d:\\desarrollos\\.net\\proyectoarquitecturas\\demo02\\mylibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{973FD23E-A183-4AE4-A4BD-431DBDF66985}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{973FD23E-A183-4AE4-A4BD-431DBDF66985}|MyLibrary\\MyLibrary.csproj|d:\\desarrollos\\.net\\proyectoarquitecturas\\demo02\\mylibrary\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,20 +26,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\Demo02\\MyLibrary\\Employee.cs",
               "RelativeDocumentMoniker": "MyLibrary\\Employee.cs",
               "ToolTip": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\Demo02\\MyLibrary\\Employee.cs",
               "RelativeToolTip": "MyLibrary\\Employee.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAA/wCcAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA/wC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T20:22:29.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T20:22:29.756Z"
             },
             {
               "$type": "Document",
@@ -51,18 +50,17 @@
               "RelativeToolTip": "MyLibrary\\Book.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAqwAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T19:49:19.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T19:49:19.402Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\Demo02\\ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
               "ToolTip": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\Demo02\\ConsoleApp\\Program.cs",
               "RelativeToolTip": "ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T19:25:15.125Z",
               "EditorCaption": ""
@@ -77,8 +75,7 @@
               "RelativeToolTip": "MyLibrary\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T02:21:50.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T02:21:50.005Z"
             }
           ]
         }
