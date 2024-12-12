@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35521.163 d17.12
+VisualStudioVersion = 17.12.35521.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind.Entities", "NorthWind.Entities\NorthWind.Entities.csproj", "{D1B259E9-2289-4699-9E76-BC80E23E872A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind.ConsoleApp", "NorthWind.ConsoleApp\NorthWind.ConsoleApp.csproj", "{8C3BC055-24CC-436A-A5E0-9ED38A24D11A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthWind.Writers", "NorthWind.Writers\NorthWind.Writers.csproj", "{26370F1C-B8C4-4950-A1B2-53088468AD20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{D1B259E9-2289-4699-9E76-BC80E23E872A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1B259E9-2289-4699-9E76-BC80E23E872A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1B259E9-2289-4699-9E76-BC80E23E872A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C3BC055-24CC-436A-A5E0-9ED38A24D11A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3BC055-24CC-436A-A5E0-9ED38A24D11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3BC055-24CC-436A-A5E0-9ED38A24D11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3BC055-24CC-436A-A5E0-9ED38A24D11A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26370F1C-B8C4-4950-A1B2-53088468AD20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26370F1C-B8C4-4950-A1B2-53088468AD20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26370F1C-B8C4-4950-A1B2-53088468AD20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26370F1C-B8C4-4950-A1B2-53088468AD20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

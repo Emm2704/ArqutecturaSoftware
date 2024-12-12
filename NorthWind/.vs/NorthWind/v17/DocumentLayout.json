@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\NorthWind\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1B259E9-2289-4699-9E76-BC80E23E872A}|NorthWind.Entities\\NorthWind.Entities.csproj|d:\\desarrollos\\.net\\proyectoarquitecturas\\northwind\\northwind.entities\\northwind.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D1B259E9-2289-4699-9E76-BC80E23E872A}|NorthWind.Entities\\NorthWind.Entities.csproj|solutionrelative:northwind.entities\\northwind.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8C3BC055-24CC-436A-A5E0-9ED38A24D11A}|NorthWind.ConsoleApp\\NorthWind.ConsoleApp.csproj|d:\\desarrollos\\.net\\proyectoarquitecturas\\northwind\\northwind.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3BC055-24CC-436A-A5E0-9ED38A24D11A}|NorthWind.ConsoleApp\\NorthWind.ConsoleApp.csproj|solutionrelative:northwind.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1B259E9-2289-4699-9E76-BC80E23E872A}|NorthWind.Entities\\NorthWind.Entities.csproj|d:\\desarrollos\\.net\\proyectoarquitecturas\\northwind\\northwind.entities\\valueobjects\\useraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1B259E9-2289-4699-9E76-BC80E23E872A}|NorthWind.Entities\\NorthWind.Entities.csproj|solutionrelative:northwind.entities\\valueobjects\\useraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26370F1C-B8C4-4950-A1B2-53088468AD20}|NorthWind.Writers\\NorthWind.Writers.csproj|d:\\desarrollos\\.net\\proyectoarquitecturas\\northwind\\northwind.writers\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26370F1C-B8C4-4950-A1B2-53088468AD20}|NorthWind.Writers\\NorthWind.Writers.csproj|solutionrelative:northwind.writers\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1B259E9-2289-4699-9E76-BC80E23E872A}|NorthWind.Entities\\NorthWind.Entities.csproj|d:\\desarrollos\\.net\\proyectoarquitecturas\\northwind\\northwind.entities\\interfaces\\iuseractionwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1B259E9-2289-4699-9E76-BC80E23E872A}|NorthWind.Entities\\NorthWind.Entities.csproj|solutionrelative:northwind.entities\\interfaces\\iuseractionwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26370F1C-B8C4-4950-A1B2-53088468AD20}|NorthWind.Writers\\NorthWind.Writers.csproj|d:\\desarrollos\\.net\\proyectoarquitecturas\\northwind\\northwind.writers\\consolewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26370F1C-B8C4-4950-A1B2-53088468AD20}|NorthWind.Writers\\NorthWind.Writers.csproj|solutionrelative:northwind.writers\\consolewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26370F1C-B8C4-4950-A1B2-53088468AD20}|NorthWind.Writers\\NorthWind.Writers.csproj|d:\\desarrollos\\.net\\proyectoarquitecturas\\northwind\\northwind.writers\\debugwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26370F1C-B8C4-4950-A1B2-53088468AD20}|NorthWind.Writers\\NorthWind.Writers.csproj|solutionrelative:northwind.writers\\debugwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3BC055-24CC-436A-A5E0-9ED38A24D11A}|NorthWind.ConsoleApp\\NorthWind.ConsoleApp.csproj|d:\\desarrollos\\.net\\proyectoarquitecturas\\northwind\\northwind.consoleapp\\services\\applogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3BC055-24CC-436A-A5E0-9ED38A24D11A}|NorthWind.ConsoleApp\\NorthWind.ConsoleApp.csproj|solutionrelative:northwind.consoleapp\\services\\applogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IUserActionWriter.cs",
-              "DocumentMoniker": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\NorthWind\\NorthWind.Entities\\Interfaces\\IUserActionWriter.cs",
-              "RelativeDocumentMoniker": "NorthWind.Entities\\Interfaces\\IUserActionWriter.cs",
-              "ToolTip": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\NorthWind\\NorthWind.Entities\\Interfaces\\IUserActionWriter.cs",
-              "RelativeToolTip": "NorthWind.Entities\\Interfaces\\IUserActionWriter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "FileWriter.cs",
+              "DocumentMoniker": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\NorthWind\\NorthWind.Writers\\FileWriter.cs",
+              "RelativeDocumentMoniker": "NorthWind.Writers\\FileWriter.cs",
+              "ToolTip": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\NorthWind\\NorthWind.Writers\\FileWriter.cs",
+              "RelativeToolTip": "NorthWind.Writers\\FileWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T02:35:21.529Z",
+              "WhenOpened": "2024-12-12T15:15:18.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserAction.cs",
-              "DocumentMoniker": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\NorthWind\\NorthWind.Entities\\ValueObjects\\UserAction.cs",
-              "RelativeDocumentMoniker": "NorthWind.Entities\\ValueObjects\\UserAction.cs",
-              "ToolTip": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\NorthWind\\NorthWind.Entities\\ValueObjects\\UserAction.cs",
-              "RelativeToolTip": "NorthWind.Entities\\ValueObjects\\UserAction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "DebugWriter.cs",
+              "DocumentMoniker": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\NorthWind\\NorthWind.Writers\\DebugWriter.cs",
+              "RelativeDocumentMoniker": "NorthWind.Writers\\DebugWriter.cs",
+              "ToolTip": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\NorthWind\\NorthWind.Writers\\DebugWriter.cs",
+              "RelativeToolTip": "NorthWind.Writers\\DebugWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T02:26:12.926Z",
+              "WhenOpened": "2024-12-12T15:10:57.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppLogger.cs",
+              "DocumentMoniker": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\NorthWind\\NorthWind.ConsoleApp\\Services\\AppLogger.cs",
+              "RelativeDocumentMoniker": "NorthWind.ConsoleApp\\Services\\AppLogger.cs",
+              "ToolTip": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\NorthWind\\NorthWind.ConsoleApp\\Services\\AppLogger.cs",
+              "RelativeToolTip": "NorthWind.ConsoleApp\\Services\\AppLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:21:38.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleWriter.cs",
+              "DocumentMoniker": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\NorthWind\\NorthWind.Writers\\ConsoleWriter.cs",
+              "RelativeDocumentMoniker": "NorthWind.Writers\\ConsoleWriter.cs",
+              "ToolTip": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\NorthWind\\NorthWind.Writers\\ConsoleWriter.cs",
+              "RelativeToolTip": "NorthWind.Writers\\ConsoleWriter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T03:17:17.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NorthWind.Entities",
-              "DocumentMoniker": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\NorthWind\\NorthWind.Entities\\NorthWind.Entities.csproj",
-              "RelativeDocumentMoniker": "NorthWind.Entities\\NorthWind.Entities.csproj",
-              "ToolTip": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\NorthWind\\NorthWind.Entities\\NorthWind.Entities.csproj",
-              "RelativeToolTip": "NorthWind.Entities\\NorthWind.Entities.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-12T02:25:11.53Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\NorthWind\\NorthWind.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "NorthWind.ConsoleApp\\Program.cs",
+              "ToolTip": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\NorthWind\\NorthWind.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "NorthWind.ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:53:33.663Z",
               "EditorCaption": ""
             }
           ]
