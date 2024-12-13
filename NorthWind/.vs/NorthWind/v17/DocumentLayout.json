@@ -47,15 +47,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "NorthWind.ConsoleApp",
+              "Title": "NorthWind.ConsoleApp.csproj",
               "DocumentMoniker": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\NorthWind\\NorthWind.ConsoleApp\\NorthWind.ConsoleApp.csproj",
               "RelativeDocumentMoniker": "NorthWind.ConsoleApp\\NorthWind.ConsoleApp.csproj",
               "ToolTip": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\NorthWind\\NorthWind.ConsoleApp\\NorthWind.ConsoleApp.csproj",
               "RelativeToolTip": "NorthWind.ConsoleApp\\NorthWind.ConsoleApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-13T15:30:54.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T15:30:54.943Z"
             },
             {
               "$type": "Document",
@@ -65,7 +64,7 @@
               "RelativeDocumentMoniker": "NorthWind.ConsoleApp\\Program.cs",
               "ToolTip": "D:\\Desarrollos\\.Net\\ProyectoArquitecturas\\NorthWind\\NorthWind.ConsoleApp\\Program.cs",
               "RelativeToolTip": "NorthWind.ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBMAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T15:25:19.142Z",
               "EditorCaption": ""
@@ -80,8 +79,7 @@
               "RelativeToolTip": "NorthWind.Core\\DependencyContainer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T15:03:23.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T15:03:23.169Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "NorthWind.IoC\\DependencyContainer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T15:02:54.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T15:02:54.018Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "NorthWind.Core\\Services\\ProductService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T14:58:07.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T14:58:07.087Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "NorthWind.Entities\\Interfaces\\IProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T14:57:37.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T14:57:37.127Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "NorthWind.Core\\Services\\AppLogger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T14:56:26.15Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T14:56:26.15Z"
             },
             {
               "$type": "Document",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "NorthWind.Entities\\Interfaces\\IAppLogger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T03:37:32.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T03:37:32.715Z"
             }
           ]
         }
