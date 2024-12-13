@@ -1,6 +1,9 @@
-﻿using NorthWind.ConsoleApp.Services;
+﻿using Microsoft.Extensions.Hosting;
+using Microsoft.Extensions.DependencyInjection;
+using NorthWind.ConsoleApp.Services;
 using NorthWind.Entities.Interfaces;
 using NorthWind.Writers;
+using NorthWind.IoC;
 
 namespace NorthWind.ConsoleApp
 {
@@ -8,12 +11,18 @@ namespace NorthWind.ConsoleApp
     {
         static void Main(string[] args)
         {
-            IUserActionWriter Writer = new ConsoleWriter();
+            HostApplicationBuilder Builder = Host.CreateApplicationBuilder();
 
-            AppLogger Logger = new AppLogger(Writer);
+            Builder.Services.AddNorthWindServices();
+
+            
+
+            using var AppHost = Builder.Build();
+
+            IAppLogger Logger = AppHost.Services.GetRequiredService<IAppLogger>();
             Logger.WriteLog("Application started!!");
 
-            ProductService Service = new ProductService(Writer);
+            IProductService Service = AppHost.Services.GetRequiredService<IProductService>();
             Service.Add("Emmanuel", "Azucar");
 
             /*
